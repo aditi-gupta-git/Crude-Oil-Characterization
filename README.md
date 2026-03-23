@@ -6,6 +6,7 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-red?style=for-the-badge)](https://xgboost.readthedocs.io/)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-2.0+-orange?style=for-the-badge&logo=tensorflow)](https://tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.0+-red?style=for-the-badge&logo=keras)](https://keras.io/)
+[![Published Work](https://img.shields.io/badge/FOSSEE-Published%20Work-orange?style=for-the-badge&logo=graduation-cap)](https://fossee.in/semester-internship/autumn/2025)
 
 ## Project Overview
 This project develops **Machine Learning and ANN surrogate models** to predict critical crude oil quality parameters directly from readily available physical measurements, bypassing time-consuming laboratory assays. Using a dataset of 114 crude oil blend assays, the models learn complex non-linear relationships between physical properties and:
